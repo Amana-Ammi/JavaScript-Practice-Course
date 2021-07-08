@@ -37,7 +37,7 @@
 
 // .14 Basic Operations
 
-const now = 2037;
+/*const now = 2037;
 const ageAmana = now - 1992;
 const ageJonas = now - 2018;
 
@@ -49,17 +49,23 @@ const firstName = "Amana";
 const lastName = "Ammishaddai";
 
 console.log(firstName + " " + lastName);
+*/
 
 // Assignment operators
-let x = 10 + 5;
-x += 10; // x = x + 10 = 25
-x *= 4; // x = x * 4
-x++; // x + 1
-x--; // x - 1
-console.log(x);
+// let x = 10 + 5;
+// x += 10; // x = x + 10 = 25
+// x *= 4; // x = x * 4
+// x++; // x + 1
+// x--; // x - 1
+// console.log(x);
 
 // Comparison operators
 
-console.log(ageAmana > ageJonas)
+// console.log(ageAmana > ageJonas);
+//  Is the age of Amana greater than the age of Jonas? Yes or no, true or false
+// console.log(ageAmana >= 18);
+
+// const isFullAge = ageAmana >= 18;
+// console.log(now - 1991 > now - 2018)
 
 // .15 Operator Precedence
